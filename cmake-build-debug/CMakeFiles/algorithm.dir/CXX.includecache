@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLion/Projects/algorithm/Binary_tree.cpp
+iostream
+-
+vector
+-
+queue
+-
+unordered_map
+-
+math.h
+-
+algorithm
+-
+set
+-
+array
+-
+numeric
+-
+stack
+-
+random
+-
+time.h
+-
+
